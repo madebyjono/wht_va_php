@@ -1,0 +1,16 @@
+{
+    "name": "jono/wht_va_php",
+    "description": "Automating getting VA from mytax.hasil.gov.my",
+    "type": "project",
+    "authors": [
+        {
+            "name": "madebyjono",
+            "email": "madebyjono.llp@gmail.com"
+        }
+    ],
+    "require": {
+        "php-mail-client/client": "^3.2",
+        "spatie/ray": "^1.34",
+        "nesk/puphpeteer": "^2.0"
+    }
+}
